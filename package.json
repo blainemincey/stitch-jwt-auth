@@ -1,0 +1,21 @@
+{
+  "name": "stitch-jwt-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "form-data": "^3.0.0",
+    "https": "^1.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb-stitch-server-sdk": "^4.8.0",
+    "querystring": "^0.2.0"
+  }
+}
