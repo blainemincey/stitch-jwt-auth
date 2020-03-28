@@ -251,7 +251,8 @@ If everything has been configured properly, you should see output similar to tha
 ![](img/stitchlogin.jpg)
 
 A quick inspection of your data using either MongoDB Compass or the Data Explorer within MongoDB Atlas
-should indicate a user document similar to that below.
+should indicate a user document similar to that below. 
+
 ![](img/user.jpg)
 
 
